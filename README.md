@@ -264,11 +264,11 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Olayeye Muideen</summary>
+    <summary>Odisi Anthony Enebimowei</summary>
     <ul>
-    <li><a href="https://www.github.com/muideen7">Github</a></li>
-    <li><a href="https://www.twitter.com/OlayeyeMuideen">Twitter</a></li>
-    <li><a href="mailto:olayeyeayomide2000@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/richtea881">Github</a></li>
+    <li><a href="https://www.twitter.com/OdisiAnthonyEnebimowei">Twitter</a></li>
+    <li><a href="mailto:doctorskull.z@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
