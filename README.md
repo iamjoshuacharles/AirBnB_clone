@@ -43,7 +43,7 @@ All the development and testing was runned over an operating system Ubuntu 22.04
 ## 0x03 Installation
 
 ```bash
-git clone https://github.com/Muideen7/AirBnB_clone.git
+git clone https://github.com/richtea881/AirBnB_clone.git
 ```
 
 change to the `AirBnb` directory and run the command:
@@ -267,16 +267,16 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     <summary>Odisi Anthony Enebimowei</summary>
     <ul>
     <li><a href="https://www.github.com/richtea881">Github</a></li>
-    <li><a href="https://www.twitter.com/OdisiAnthonyEnebimowei">Twitter</a></li>
+    <li><a href="https://www.twitter.com/richtea_3">Twitter</a></li>
     <li><a href="mailto:doctorskull.z@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
-    <summary>Brian Segem</summary>
+    <summary>Njan Joshua</summary>
     <ul>
-    <li><a href="https://www.github.com/97fangz">Github</a></li>
+    <li><a href="https://www.github.com/iamjoshuacharles">Github</a></li>
     <li><a href="https://www.twitter.com/">Twitter</a></li>
-    <li><a href="mailto:briansegem25@gmail.com">e-mail</a></li>
+    <li><a href="mailto:joshuacharles.n@gmail.com">e-mail</a></li>
     </ul>
 </details>
 
